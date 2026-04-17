@@ -1,1 +1,2 @@
-
+# Europe transport dashboard
+This is a group project focused on developing an interactive dashboard with data visualizations based on various transportation datasets. The project involved data processing and creating interactive charts to present key insights. Please note that the screenshots included in this repository come from an earlier version of the project and may differ from the current implementation in the code. My contribution included developing CO₂ emissions visualizations and designing the dashboard using Shiny. The project is in Polish.
